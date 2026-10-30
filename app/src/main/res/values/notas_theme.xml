@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NotasSimple" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2456A6</item>
+        <item name="colorSecondary">#2456A6</item>
+    </style>
+</resources>
